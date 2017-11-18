@@ -4,6 +4,9 @@ A basic React-Redux project that displays the inputted city's forecast.
 The temperature, pressure and humidity is shown on a chart, using OpenWeatherMap API.  
 The city is displayed with Google Maps, using Google Maps API.  
 
+### Base
+Originally created with [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter), but recently replaced with [Create-React-App](https://github.com/facebookincubator/create-react-app).  
+
 #### How to run (Familiar with Git)
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
